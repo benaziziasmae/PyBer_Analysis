@@ -16,9 +16,8 @@ For this challenge, we took it a step further and created a summary data frame t
 First, we pulled our data by using the pandas Groupby() function with the count() and sum () to get the total number of drivers,rides and fares by city type. Once we pulled this information and assigned it to functions we were able to calculate our average fare per ride and driver. Once we had all of that information together we were able to format into a newdata frame and re-format the columns. In the second part of this excercise we used the pivot() and resample function to create a multiple line graph that shows the total fares for each week by city type between the months of January & April of 2019.
 
 ## Results
-I- PyBer Summary
 
- 1- Total Ride by city type
+ **1- Total Ride by city type**
 
 The PyBer Summary DataFrame provides an overview comparison of PyBer's ridesharing services in three types of cities: **rural, surburban, and urban cities**. The summary demonstrates that there is a larger demand for PyBer among riders in urban cities compared to suburban and rural cities. 
 Between January 2019 and May 2019, there were:
@@ -30,7 +29,7 @@ The figure below highlights how rides in Urban cities contributed the most to Py
 
 ![FIG 3 TOTAL RIDES BY CITY TYPE](analysis/Fig3.png)
 
- 2- Total drivers by city type
+ **2- Total drivers by city type**
 
 On a similar pattern, there was also a larger volume of drivers in urban cities compared to suburban and rural cities:
 - There were 2,405 drivers in urban cities.
@@ -41,7 +40,7 @@ Again, the figure below depicts the significance of drivers in urban cities duri
 
  ![FIG 4 TOTAL DRIVERS BY CITY TYPE](analysis/Fig4.png)
  
-  3- Total fare by city type
+ **3- Total fare by city type**
  
 Given that there is a greater usage of PyBer in urban cities, the total fares are consequently also higher than suburban and rural cities. 
 - PyBer transactions in urban cities totaled nearly $40,000.
@@ -52,13 +51,13 @@ The figure below demonstrates where the majority of PyBer's revenue occurred dur
 
 ![FIG 5 TOTAL FARES BY CITY TYPE](analysis/Fig5.png)
 
- 4- Average fare by ride
+**4- Average fare by ride**
 
 - In terms of costs, it appears that riders in rural cities pay on average almost $10 more for PyBer than riders in urban cities. The average fare per ride is $34.62 in rural cities whereas the average fare per ride is $24.52 in urban cities.
 
 - Suburban cities average fare per ride falls just about $31, While it may not be good news for riders in rural cities, it is a better market for drivers in this type of city. 
 
- 5- Average fare by driver
+ **5- Average fare by driver**
 
 - The average fare per driver is about $55 in rural cities, whereas the average fare per driver is about $17 in urban cities. Suburban cities' average fare per driver is about $40.
 
@@ -66,7 +65,7 @@ The image below show the summary of the PyBer.
 
 ![summary](Resources/summary.PNG)
 
- 6- Multiple line chart 
+ **6- Multiple line chart**
  
  
  ![PyBer_fare_summary](analysis/PyBer_fare_summary.png)
@@ -90,13 +89,12 @@ Overall, PyBer ridersharing services significantly differs in rural, suruban, an
 
 
 ## Recommandations
-3 Recommandations that i can provide:
 
-- Since drivers in rural cities are earning more than drivers in urban cities. This could discourage potential drivers from working with PyBer given the low average fare per driver. For that fact, I suggest Pyber to enforce the number of drivers in suburban and rural cities and encourage drivers by giving bonus points or incentive programs to work more in rural and suburban areas.
+3 Recommandations that I can provide:
 
-- 
+- Since drivers in rural cities are earning more than drivers in urban cities. This could discourage potential drivers from working with PyBer given the low average fare per driver. For that fact, I suggest Pyber's CEO to enforce the number of drivers in suburban and rural cities and encourage drivers by giving bonus points or incentive programs to work more in rural and suburban areas.
 
+- Enhance the quality of the PyBer service, target another type of customer: seniors, tourists, students,... improve technology in a way to make easy the use of requesting driver using a smart phone through an app.
 
-
-
+- Pyber can also influence ride-share prices according to city type so as to attract more customers.
 
