@@ -48,7 +48,7 @@ Given that there is a greater usage of PyBer in urban cities, the total fares ar
 
 The figure below demonstrates where the majority of PyBer's revenue occurred during this time period: urban cities.
 
-![FIG 5 TOTAL FARES BY CITY TYPE] (analysis/Fig5.png)
+![FIG 5 TOTAL FARES BY CITY TYPE](analysis/Fig5.png)
 
 4- Average fare by ride
 
@@ -62,8 +62,7 @@ The figure below demonstrates where the majority of PyBer's revenue occurred dur
 
 The image below show the summary of the PyBer
 
-
-![Pyber_Summary] (analysis/summary.PNG)
+![Pyber_Summary](analysis/summary.PNG)
 
 
 
