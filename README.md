@@ -62,7 +62,7 @@ The figure below demonstrates where the majority of PyBer's revenue occurred dur
 
 The image below show the summary of the PyBer
 
-![summary](analysis/summary.PNG)
+![summary](Resources/summary.PNG)
 
 
 
