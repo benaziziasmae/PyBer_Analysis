@@ -25,7 +25,7 @@ Between January 2019 and May 2019, there were:
 - 625 rides in suburban cities.
 - 125 rides in rural cities. 
 
-The figure below highlights how rides in Urban cities contributed the most to PyBer's overall rides during this five-month period.
+The figure below highlights how rides in Urban cities contributed the most to PyBer's overall rides during this five-month period in percentage.
 
 ![FIG 6 TOTAL RIDES BY CITY TYPE](analysis/Fig6.png)
 
@@ -36,7 +36,7 @@ On a similar pattern, there was also a larger volume of drivers in urban cities 
 - 490 drivers in suburban cities.
 - 78 drivers in rural cities. 
 
-Again, the figure below depicts the significance of drivers in urban cities during this time period.
+Again, the figure below depicts the significance of drivers in urban cities during this time period in percentage.
 
  ![FIG 7 TOTAL DRIVERS BY CITY TYPE](analysis/Fig7.png)
  
@@ -47,7 +47,7 @@ Given that there is a greater usage of PyBer in urban cities, the total fares ar
 - Suburban cities totaled at least $19,000.
 - Rural $4,000. 
 
-The figure below demonstrates where the majority of PyBer's revenue occurred during this time period: urban cities.
+The figure below demonstrates where the majority of PyBer's revenue occurred during this time period: urban cities in percentage.
 
 ![FIG 5 TOTAL FARES BY CITY TYPE](analysis/Fig5.png)
 
