@@ -27,7 +27,7 @@ Between January 2019 and May 2019, there were:
 
 The figure below highlights how rides in Urban cities contributed the most to PyBer's overall rides during this five-month period.
 
-![FIG 3 TOTAL RIDES BY CITY TYPE](analysis/Fig3.png)
+![FIG 6 TOTAL RIDES BY CITY TYPE](analysis/Fig6.png)
 
  **2- Total drivers by city type**
 
@@ -38,7 +38,7 @@ On a similar pattern, there was also a larger volume of drivers in urban cities 
 
 Again, the figure below depicts the significance of drivers in urban cities during this time period.
 
- ![FIG 4 TOTAL DRIVERS BY CITY TYPE](analysis/Fig4.png)
+ ![FIG 7 TOTAL DRIVERS BY CITY TYPE](analysis/Fig7.png)
  
  **3- Total fare by city type**
  
