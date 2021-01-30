@@ -70,7 +70,7 @@ The image below show the summary of the PyBer.
  
  ![PyBer_fare_summary](analysis/PyBer_fare_summary.png)
  
-According to the plot, urban cities have the highest fares and all cities have a high peak just before the month of March. Sururban cities have lower fares compared to urban cities but higher fares compared to rural cities which have the lowest fares.
+According to the plot, urban cities have the highest fares and all cities have a high peak just before the month of March. Suburban cities have lower fares compared to urban cities but higher fares compared to rural cities which have the lowest fares.
 
 Rural Pyber users on average should expect to pay more for rides. Cities by nature have higher populations, leading to a bigger driver pool and allowing Pyber users to get lower fares.
 
