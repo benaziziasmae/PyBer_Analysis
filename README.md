@@ -96,5 +96,5 @@ Overall, PyBer ridersharing services significantly differs in rural, suruban, an
 
 - Enhance the quality of the PyBer service, target another type of customer: seniors, tourists, students,... improve technology in a way to make easy the use of requesting driver using a smart phone through an app.
 
-- Pyber can also influence ride-share prices according to city type so as to attract more customers, and .
+- Pyber can also influence ride-share prices according to city type so as to attract more customers.
 
