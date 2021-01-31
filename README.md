@@ -3,7 +3,7 @@ Analyze all the rideshare data from January to early May of 2019 and create a co
 
 ## Resources
 - Data sources: [City_Data.csv](Resources/city_data.csv), [Ride_Data.csv](Resources/ride_data.csv), [PyBer_ride_data.csv](Resources/PyBer_ride_data.csv)
-- Software : Python 3.7, Anaconda, Jupyter Notebook
+- Software : Python 3.7, Anaconda, Jupyter Notebook, Pandas.
 
 ## Overview of the project 
 
