@@ -2,7 +2,7 @@
 Analyze all the rideshare data from January to early May of 2019 and create a compelling visualization for the CEO, V. Isualize.
 
 ## Resources
-- Data sources: [City_Data.csv](Resources/city_data.csv), [Ride_Data.csv](Resources/ride_data.csv) 
+- Data sources: [City_Data.csv](Resources/city_data.csv), [Ride_Data.csv](Resources/ride_data.csv), [PyBer_ride_data.csv](Resources/PyBer_ride_data.csv)
 - Software : Python 3.7, Anaconda, Jupyter Notebook
 
 ## Overview of the project 
@@ -96,5 +96,5 @@ Overall, PyBer ridersharing services significantly differs in rural, suruban, an
 
 - Enhance the quality of the PyBer service, target another type of customer: seniors, tourists, students,... improve technology in a way to make easy the use of requesting driver using a smart phone through an app.
 
-- Pyber can also influence ride-share prices according to city type so as to attract more customers.
+- Pyber can also influence ride-share prices according to city type so as to attract more customers, and .
 
